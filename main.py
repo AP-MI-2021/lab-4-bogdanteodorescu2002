@@ -101,7 +101,7 @@ if __name__ == '__main__':
         print("3. Concat")
         print("x. Iesiti din program")
         option = input("Dati optiunea: ")
-        if option == '0'
+        if option == '0':
             l1 = citireLista()
             l2 = citireLista()
         if option == '1':
